@@ -1,5 +1,5 @@
 # RandomWinnerGame
-This smart contract allows users to play a lottery game on Polygon Mumbai Testnet where a random winner is selected using Chainlink VRF.
+This smart contract allows users to play a lottery game on Polygon Mumbai Testnet where a random winner is selected using Chainlink VRF. Tutorial by LearnWeb3DAO
 
 ## How It Works
 1. The contract owner starts a new game by calling the startGame function, specifying the maximum number of players and entry fee.
