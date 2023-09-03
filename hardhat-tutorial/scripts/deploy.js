@@ -20,7 +20,7 @@ async function main() {
 
   console.log("Sleeping.....");
   // Wait for etherscan to notice that the contract has been deployed
-  await sleep(60000);
+  await sleep(30000);
 
   // Verify the contract after deploying
   await hre.run("verify:verify", {
